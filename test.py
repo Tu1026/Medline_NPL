@@ -18,5 +18,5 @@ Entrez.email = 'linshuan@ubc.ca'
 ***REMOVED***
 ***REMOVED***
 ***REMOVED***
-    print(record)
+    print(record['AB'])
 ***REMOVED***
