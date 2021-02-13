@@ -1,4 +1,4 @@
-.txt
-.pdf
-.db
-.sqlite
+*.txt
+*.pdf
+*.db
+*.sqlite
