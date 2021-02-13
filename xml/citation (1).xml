@@ -1,0 +1,233 @@
+<?xml version="1.0" standalone="yes" ?>
+<!-- <!DOCTYPE ovidresults SYSTEM "http://www.ovid.com/dtds/ovidxmloutput.dtd"> -->
+<ovidresults>
+<records>
+<record index="1. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medl</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>32105773<T><BR /></T></D></F>
+</record>
+<record index="2. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medl</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>31507029<T><BR /></T></D></F>
+</record>
+<record index="3. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medl</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>32778337<T><BR /></T></D></F>
+</record>
+<record index="4. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medl</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>31768666<T><BR /></T></D></F>
+</record>
+<record index="5. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medl</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>31679625<T><BR /></T></D></F>
+</record>
+<record index="6. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medl</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>31292094<T><BR /></T></D></F>
+</record>
+<record index="7. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medc</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>31308007<T><BR /></T></D></F>
+</record>
+<record index="8. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medc</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>30661373<T><BR /></T></D></F>
+</record>
+<record index="9. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medc</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>27062307<T><BR /></T></D></F>
+</record>
+<record index="10. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medc</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>22816536<T><BR /></T></D></F>
+</record>
+<record index="11. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>medc</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>30285058<T><BR /></T></D></F>
+</record>
+<record index="12. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med16</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>30595187<T><BR /></T></D></F>
+</record>
+<record index="13. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med15</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>30334983<T><BR /></T></D></F>
+</record>
+<record index="14. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med15</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>30148661<T><BR /></T></D></F>
+</record>
+<record index="15. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med15</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>29960619<T><BR /></T></D></F>
+</record>
+<record index="16. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med15</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>29801082<T><BR /></T></D></F>
+</record>
+<record index="17. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med15</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>29349819<T><BR /></T></D></F>
+</record>
+<record index="18. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med14</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>28734885<T><BR /></T></D></F>
+</record>
+<record index="19. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med13</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>27635072<T><BR /></T></D></F>
+</record>
+<record index="20. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med13</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>27474350<T><BR /></T></D></F>
+</record>
+<record index="21. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med13</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>27342696<T><BR /></T></D></F>
+</record>
+<record index="22. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med13</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>27074775<T><BR /></T></D></F>
+</record>
+<record index="23. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med13</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>27017148<T><BR /></T></D></F>
+</record>
+<record index="24. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med13</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>26983946<T><BR /></T></D></F>
+</record>
+<record index="25. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med13</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>26724489<T><BR /></T></D></F>
+</record>
+<record index="26. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med12</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>26224792<T><BR /></T></D></F>
+</record>
+<record index="27. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med12</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>25917337<T><BR /></T></D></F>
+</record>
+<record index="28. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med12</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>25583153<T><BR /></T></D></F>
+</record>
+<record index="29. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med10</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>24267800<T><BR /></T></D></F>
+</record>
+<record index="30. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med10</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>23500286<T><BR /></T></D></F>
+</record>
+<record index="31. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med10</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>23232084<T><BR /></T></D></F>
+</record>
+<record index="32. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med10</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>23002195<T><BR /></T></D></F>
+</record>
+<record index="33. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med9</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>22972723<T><BR /></T></D></F>
+</record>
+<record index="34. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med9</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>22944906<T><BR /></T></D></F>
+</record>
+<record index="35. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med8</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>21911550<T><BR /></T></D></F>
+</record>
+<record index="36. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med8</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>21459272<T><BR /></T></D></F>
+</record>
+<record index="37. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med7</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>19959132<T><BR /></T></D></F>
+</record>
+<record index="38. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med7</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>19898693<T><BR /></T></D></F>
+</record>
+<record index="39. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med7</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>19695966<T><BR /></T></D></F>
+</record>
+<record index="40. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med7</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>19488806<T><BR /></T></D></F>
+</record>
+<record index="41. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med7</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>19306385<T><BR /></T></D></F>
+</record>
+<record index="42. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med7</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>19232036<T><BR /></T></D></F>
+</record>
+<record index="43. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med7</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>19808416<T><BR /></T></D></F>
+</record>
+<record index="44. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med7</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>18540123<T><BR /></T></D></F>
+</record>
+<record index="45. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med7</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>18373605<T><BR /></T></D></F>
+</record>
+<record index="46. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med6</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>17876385<T><BR /></T></D></F>
+</record>
+<record index="47. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med6</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>17606939<T><BR /></T></D></F>
+</record>
+<record index="48. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med6</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>17575806<T><BR /></T></D></F>
+</record>
+<record index="49. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med6</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>16957800<T><BR /></T></D></F>
+</record>
+<record index="50. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med6</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>16772535<T><BR /></T></D></F>
+</record>
+<record index="51. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med6</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>15953941<T><BR /></T></D></F>
+</record>
+<record index="52. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med6</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>15953940<T><BR /></T></D></F>
+</record>
+<record index="53. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med6</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>15668348<T><BR /></T></D></F>
+</record>
+<record index="54. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med5</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>15505261<T><BR /></T></D></F>
+</record>
+<record index="55. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med5</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>15466644<T><BR /></T></D></F>
+</record>
+<record index="56. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med5</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>15457303<T><BR /></T></D></F>
+</record>
+<record index="57. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med5</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>15238454<T><BR /></T></D></F>
+</record>
+<record index="58. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med5</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>15065743<T><BR /></T></D></F>
+</record>
+<record index="59. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>12451002<T><BR /></T></D></F>
+</record>
+<record index="60. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>12438295<T><BR /></T></D></F>
+</record>
+<record index="61. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>12417544<T><BR /></T></D></F>
+</record>
+<record index="62. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>11984007<T><BR /></T></D></F>
+</record>
+<record index="63. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>11955850<T><BR /></T></D></F>
+</record>
+<record index="64. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>11940542<T><BR /></T></D></F>
+</record>
+<record index="65. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>11571253<T><BR /></T></D></F>
+</record>
+<record index="66. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>11064305<T><BR /></T></D></F>
+</record>
+<record index="67. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>11064304<T><BR /></T></D></F>
+</record>
+<record index="68. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>10887270<T><BR /></T></D></F>
+</record>
+<record index="69. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>10730051<T><BR /></T></D></F>
+</record>
+<record index="70. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>10593621<T><BR /></T></D></F>
+</record>
+<record index="71. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>10505538<T><BR /></T></D></F>
+</record>
+<record index="72. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>10505537<T><BR /></T></D></F>
+</record>
+<record index="73. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>10467201<T><BR /></T></D></F>
+</record>
+<record index="74. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med4</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>10443767<T><BR /></T></D></F>
+</record>
+<record index="75. ">
+<F C='m_dbsn' L='Database Code'><T><BR/></T><D type='c'>med3</D></F><F C='ui' L='Unique Identifier'><T><BR /></T><D type='c'>7944868<T><BR /></T></D></F>
+</record>
+</records>
+
+</ovidresults>
+
