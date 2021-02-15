@@ -1,26 +1,26 @@
 # -*- coding: utf-8 -*-
-***REMOVED***
+"""
 Original file is located at
     https://colab.research.google.com/drive/1xqkvuNDg0Opk-aZpicTVPNY4wUdC7Y7v
 
 # Parameters
-***REMOVED***
-***REMOVED***
+"""
+import os
 import pathlib
 raw_data_path = os.path.join(pathlib.Path(__file__).parent, 'training.csv')
 destination_folder = pathlib.Path(__file__).parent
 
-train_test_ratio = 0.10
-train_valid_ratio = 0.80
+train_test_ratio = 0.90
+train_valid_ratio = 0.90
 
 first_n_words = 500
 
-***REMOVED***# Libraries***REMOVED***
+"""# Libraries"""
 
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
-***REMOVED***# Preprocessing***REMOVED***
+"""# Preprocessing"""
 
 def trim_string(x):
     str(x)

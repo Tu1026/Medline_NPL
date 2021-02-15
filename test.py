@@ -1,18 +1,18 @@
 from transformers import pipeline
-***REMOVED***
-***REMOVED***
-***REMOVED***
+from contextlib import closing
+from mysql.connector import connect, Error
+from collections import defaultdict
 
 summarizer = pipeline("summarization")
 
-sql_in = ***REMOVED***
+sql_in = """
 Select Pid, Abstract
 from paper
-***REMOVED***
+"""
 mod_abstracts = defaultdict(str)
-***REMOVED***
-***REMOVED***
-***REMOVED***
+try:
+  with closing(connect(host="localhost", user="wilsontu", password="chubbyt566", database="litdb")) as cnxn:
+    with closing (cnxn.cursor()) as c:
         c.execute(sql_in)
         for pmid, abstract in c.fetchall():
             # if abstract is None:
@@ -22,5 +22,5 @@ mod_abstracts = defaultdict(str)
             #     mod_abstracts[pmid] = summary_text
             if str(pmid) == '33464943':
                 print(abstract)
-***REMOVED***
-  ***REMOVED***
+except Error as e:
+    print(e)
