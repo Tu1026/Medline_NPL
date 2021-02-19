@@ -250,6 +250,6 @@ def evaluate(model, test_loader):
     
 best_model = BERT().to(device)
 
-load_checkpoint(destination_folder + '/model.pt', best_model)
+load_checkpoint(os.path.join(destination_folder,'model.pt'), best_model)
 
 evaluate(best_model, test_iter)
